@@ -18,9 +18,9 @@ OVERVIEW OF THE PROJECT
 
 Project : FINITE STATE MACHINE (FSM) DESIGN
 
-Screenshot 2024-08-25 153541
+![image](https://github.com/user-attachments/assets/3700ae99-3272-4e7d-8571-efa5763035f0)
 
-Screenshot 2024-08-25 153601
+![image](https://github.com/user-attachments/assets/603535bd-f7be-4bc8-a5bd-bb0b94443541)
 
 Objective:
 
