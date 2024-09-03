@@ -22,5 +22,11 @@ Project : FINITE STATE MACHINE (FSM) DESIGN
 
 ![image](https://github.com/user-attachments/assets/603535bd-f7be-4bc8-a5bd-bb0b94443541)
 
+Objective:
+Design and implement a Finite State Machine (FSM) that can model and control a specific system or process, such as:
 
+.A vending machine
+.A traffic light controller
+.A digital clock
+.A robotic arm
 
